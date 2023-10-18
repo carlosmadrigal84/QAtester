@@ -76,7 +76,7 @@ Traceback (most recent call last):
     print("Información del personaje ->", informacion_personaje["Información del personaje"])
 TypeError: string indices must be integers, not 'str'
 
-## Task 3 en español
+## Task 3
 
 Buscando por internet, he visto que Python incorpora una librería llamada "unittest", que es un marco de pruebas que permite realizar pruebas de integración.
 
